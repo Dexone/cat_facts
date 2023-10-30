@@ -1,0 +1,36 @@
+#cats {
+    word-wrap: break-word;
+max-width: 500px;
+height: 667px;
+width: auto;
+margin-left: auto;
+margin-right: auto;
+border: solid;
+border-radius: 2ch;
+border-color: rgb(194, 135, 63);
+background-color: bisque;
+font-size: 18px;
+}
+
+#image {
+width: 150px;
+position: relative;
+margin-top: 5px;
+margin-left: 7px;
+}
+
+#text {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: absolute;
+padding-left: 170px;
+width: 170px;
+word-wrap: break-word;
+}
+
+button {
+margin-left: 7px;
+width: 150px;
+height: 30px;
+position: absolute;
+background-color: bisque;
+}
